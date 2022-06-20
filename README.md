@@ -1,3 +1,3 @@
 # Test
 
-Some texr.
+Some text.
